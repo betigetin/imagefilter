@@ -25,7 +25,7 @@ Streamlit will open automatically at http://localhost:8501
 
 Using the App
 ```1. Upload a PNG or JPG image from the sidebar (grayscale or color — color auto-converts)
-
+1. Upload a PNG or JPG image from the sidebar (grayscale or color — color auto-converts)
 2. Select filter type: Mean, Gaussian, or Laplacian Sharpening
 
 3. Adjust kernel size / sigma / sharpening coefficient with the sliders
