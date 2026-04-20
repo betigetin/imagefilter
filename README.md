@@ -1,20 +1,20 @@
 ﻿# imagefilter
 
-1. Install Python 3.10+
+## Install Python 3.10+
 
 Download from python.org. During install tick "Add Python to PATH". Verify:
 python --version
 
-2. Create Virtual Environment (venv)
+## Create Virtual Environment (venv)
 python -m venv venv
 
 Activate it:
-# Windows (PowerShell / CMD)
+Windows (PowerShell / CMD)
 venv\Scripts\activate
-# Mac / Linux
+Mac / Linux
 source venv/bin/activate
 
-3. Install Dependencies
+## Install Dependencies
 pip install -r requirements.txt
 
 # Run the Streamlit App
