@@ -17,13 +17,13 @@ source venv/bin/activate
 ## Install Dependencies
 pip install -r requirements.txt
 
-# Run the Streamlit App
+## Run the Streamlit App
 
 Make sure your venv is active, then from the project root:
 streamlit run app.py
 Streamlit will open automatically at http://localhost:8501
 
-Using the App
+## Using the App
 ```1. Upload a PNG or JPG image from the sidebar (grayscale or color — color auto-converts)
 1. Upload a PNG or JPG image from the sidebar (grayscale or color — color auto-converts)
 
