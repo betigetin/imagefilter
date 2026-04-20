@@ -23,7 +23,7 @@ Make sure your venv is active, then from the project root:
 streamlit run app.py
 Streamlit will open automatically at http://localhost:8501
 
-2 Using the App
+Using the App
 ```1. Upload a PNG or JPG image from the sidebar (grayscale or color — color auto-converts)
 
 2. Select filter type: Mean, Gaussian, or Laplacian Sharpening
